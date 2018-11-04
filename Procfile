@@ -1,1 +1,1 @@
-worker: node music.js BotToken ytApiKey
+worker: node bot.js
